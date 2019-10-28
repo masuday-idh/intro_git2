@@ -2,6 +2,7 @@ Gitの練習をしていきます。
 基本的なワークフローを学びます。
 afew
 ・git add
-・git commit
+・git commit★
 ・git remove
 ・git status
+・git diff
