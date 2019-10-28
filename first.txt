@@ -3,3 +3,4 @@ Gitの練習をしていきます。
 afew
 ・git add
 ・git commit
+・git remove
